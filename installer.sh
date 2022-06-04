@@ -2,7 +2,7 @@
 
 #########################################################
 PACKAGE_DIR='zelda77/main'
-MY_FILE="enigma2-plugin-skins-klll-pro-v.3.0_all.tar"
+MY_FILE="klll-pro-v.3.0.tar.gz"
 #########################################################
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
