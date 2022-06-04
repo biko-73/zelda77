@@ -34,7 +34,7 @@ if [ -f $MY_TMP_FILE ]; then
 	echo ''
 	if [ $MY_RESULT -eq 0 ]; then
         echo "#########################################################"
-        echo "#  KIII-Pro Skin $version INSTALLED SUCCESSFULLY        #"
+        echo "#      KIII-Pro Skin $version INSTALLED SUCCESSFULLY            #"
         echo "#                BY BIKO - support on                   #"
         echo "#  https://www.tunisia-sat.com/forums/threads/4289079/  #"
         echo "#########################################################"
