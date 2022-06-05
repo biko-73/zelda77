@@ -2,7 +2,7 @@
 
 #########################################################
 PACKAGE_DIR='zelda77/main'
-MY_FILE="klll-pro-v.3.0.tar.gz"
+MY_FILE="klll-pro-v.3.1.tar.gz"
 #########################################################
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
