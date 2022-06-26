@@ -3,7 +3,7 @@
 #########################################################
 PACKAGE_DIR='zelda77/main'
 
-MY_FILE="Red-Dragon-FHD-1.1.tar.gz"
+MY_FILE="Red-Dragon-FHD-1.2.tar.gz"
 #########################################################
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
